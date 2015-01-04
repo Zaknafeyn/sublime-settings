@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Format",
+		"Emmet",
+		"Git",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"Indent XML",
+		"JsFormat",
+		"JSHint Gutter",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeCodeIntel"
+	]
+}
